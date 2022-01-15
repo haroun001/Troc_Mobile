@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Platform de TROC</string>
+    //Headings
+    <string name="heading_one">BIENVENUE SUR TROC</string>
+
+
+    //Description
+    <string name="desc_one"></string>
+    <string name="desc_fourth">Trouvez-vous votre besoin! </string>
+
+</resources>
